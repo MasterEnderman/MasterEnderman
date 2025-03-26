@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a technician at a semiconductor manufacture who programs in his free time. I started with python over 10 years ago and since dappled in a bunch of different languages and frameworks. My current projects mostly revolve around the creation of Minecraft mods, especially for version 1.12. I’m 100% self-taught and love to exchange my experiences with others.
+I’m a senior technician at a semiconductor manufacture who programs in his free time. I started with python over 10 years ago and since dappled in a bunch of different languages and frameworks. My current projects mostly revolve around the creation of Minecraft mods, especially for version 1.12. I’m 100% self-taught and love to exchange my experiences with others.
 
 
 ## 🌐 Socials:
